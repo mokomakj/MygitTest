@@ -1,5 +1,9 @@
 i library(caret)
-my function <- function(x) {
-sqrt(x)
-}
-s
+
+
+
+function <- function(x)
+{ abs(x) function(x)
+	{ abs(x)}}
+
+>>>>>>> test
